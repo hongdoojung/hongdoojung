@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Law&Good](https://www.lawandgood.com/)
 - 🤔 I’m interested in algorithms
-- 👯 You can see my [linkedin page](https://www.linkedin.com/in/hongdoojung/)
+- 👯 You can see my [Linkedin page](https://www.linkedin.com/in/hongdoojung/)
 
 
  
