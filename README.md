@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Law&Good](https://www.lawandgood.com/)
+- 🤔 I’m interested in algorithms
+
+
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja02059)](https://solved.ac/jja02059/)
+
