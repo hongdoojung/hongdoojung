@@ -23,3 +23,5 @@ Here are some ideas to get you started:
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja02059)](https://solved.ac/jja02059/)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hongdoojung?theme=unicorn&ext=activity)](https://leetcode.com/hongdoojung)
+
