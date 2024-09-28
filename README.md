@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 👯 You can see my [Linkedin page](https://www.linkedin.com/in/hongdoojung/), [Resume](https://github.com/hongdoojung/RESUME)
 
 
- 
+ <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jja02059)](https://solved.ac/jja02059/)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hongdoojung?theme=unicorn&ext=heatmap)](https://leetcode.com/hongdoojung)
 
+-->
