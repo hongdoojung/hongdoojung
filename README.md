@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on EO Studio, Famous IT Media in Korea.
+- 🔭 I’m currently working on Linq, AI startup in South Korea.
 - 👯 You can see my [Linkedin page](https://www.linkedin.com/in/hongdoojung/), [Resume](https://github.com/hongdoojung/RESUME)
 
 
