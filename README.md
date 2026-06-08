@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Linq, AI startup in South Korea.
+- 🔭 I’m currently working on Alean, AI Legal Analyst startup in South Korea & United States.
 - 👯 You can see my [Linkedin page](https://www.linkedin.com/in/hongdoojung/), [Resume](https://github.com/hongdoojung/RESUME)
 
 
